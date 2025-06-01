@@ -77,7 +77,7 @@ TRIAGE³ helps detection engineers and SOC analysts:
 
 ## Community
 
-- [GitHub Discussions](https://github.com/Blackbird2Raven/triage-cubed/discussions)
+- [GitHub Issues](https://github.com/Blackbird2Raven/triage-cubed/issues)
 - [LinkedIn](https://www.linkedin.com/in/siddhant-mishra-b190b630/)
 - [Twitter/X](https://x.com/SiddhantMishra_)
 
@@ -92,7 +92,7 @@ For commercial use inquiries, please contact: [siddhantamishra@hotmail.com](mail
 For support, please:
 1. Check the [documentation](https://Blackbird2Raven.github.io/triage-cubed/docs)
 2. Open an issue in the repository
-3. Join the [community discussions](https://github.com/Blackbird2Raven/triage-cubed/discussions)
+3. Join the [community discussions](https://github.com/Blackbird2Raven/triage-cubed/issues)
 
 ## Acknowledgments
 

@@ -130,7 +130,7 @@ This guide will help you implement the TRIAGE³ framework in your Security Opera
 - [Methodology](https://Blackbird2Raven.github.io/triage-cubed/methodology)
 - [Example Analysis](https://Blackbird2Raven.github.io/triage-cubed/resources/example-analysis)
 - [Templates](https://Blackbird2Raven.github.io/triage-cubed/resources/templates)
-- [Community Forum](https://github.com/Blackbird2Raven/triage-cubed/discussions)
+- [Community Forum](https://github.com/Blackbird2Raven/triage-cubed/issues)
 
 ## Getting Help
 
