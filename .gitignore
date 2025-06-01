@@ -39,4 +39,10 @@ ENV/
 
 # OS
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# Personal Branding Files
+personal-brand.md
+twitter-thread.md
+linkedin-announcement.md
+dashboard-wireframe.md 
