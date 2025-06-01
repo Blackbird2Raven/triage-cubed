@@ -61,7 +61,7 @@ Siddhant Mishra regularly speaks at security conferences and events about:
 - Detection engineering best practices
 - The TRIAGE³ framework
 
-[Contact for speaking opportunities](mailto:siddhant.mishra@example.com)
+[Contact for speaking opportunities](mailto:siddhantamishra@hotmail.com)
 
 ## Acknowledgments
 

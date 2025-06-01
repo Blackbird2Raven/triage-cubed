@@ -85,7 +85,7 @@ TRIAGE³ helps detection engineers and SOC analysts:
 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License - see the [LICENSE](LICENSE) file for details.
 
-For commercial use inquiries, please contact: [your.email@example.com]
+For commercial use inquiries, please contact: [siddhantamishra@hotmail.com](mailto:siddhantamishra@hotmail.com)
 
 ## Support
 
