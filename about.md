@@ -8,7 +8,7 @@ permalink: /about/
 
 ## The Creator
 
-[Your Name] is a detection engineering expert and SOC optimization strategist with a passion for making security operations more efficient and effective. With over [X] years of experience in cybersecurity, [he/she/they] has helped numerous organizations transform their security operations through innovative approaches and practical solutions.
+Siddhant Mishra is a detection engineering expert and SOC optimization strategist with a passion for making security operations more efficient and effective. With over [X] years of experience in cybersecurity, he has helped numerous organizations transform their security operations through innovative approaches and practical solutions.
 
 ## The Journey
 
@@ -48,20 +48,20 @@ TRIAGE³ is more than just a framework - it's a community of security profession
 
 ## Connect
 
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [GitHub](https://github.com/yourusername)
-- [Blog](https://yourblog.com)
+- [LinkedIn](https://www.linkedin.com/in/siddhant-mishra-b190b630/)
+- [Twitter/X](https://x.com/SiddhantMishra_)
+- [GitHub](https://github.com/Blackbird2Raven)
+- [Blog](https://Blackbird2Raven.github.io/triage-cubed)
 
 ## Speaking & Events
 
-[Your Name] regularly speaks at security conferences and events about:
+Siddhant Mishra regularly speaks at security conferences and events about:
 - Signal management optimization
 - SOC efficiency improvement
 - Detection engineering best practices
 - The TRIAGE³ framework
 
-[Contact for speaking opportunities](mailto:your.email@example.com)
+[Contact for speaking opportunities](mailto:siddhant.mishra@example.com)
 
 ## Acknowledgments
 
@@ -73,4 +73,4 @@ Special thanks to:
 
 ## License
 
-TRIAGE³ is released under the [MIT License](https://github.com/yourusername/triage-cubed/blob/main/LICENSE). 
+TRIAGE³ is released under the [MIT License](https://github.com/Blackbird2Raven/triage-cubed/blob/main/LICENSE). 

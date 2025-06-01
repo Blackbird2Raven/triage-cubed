@@ -111,5 +111,5 @@ Recommended thresholds for each dimension:
 4. Apply the framework
 5. Monitor and adjust
 
-[Download Implementation Guide](/resources/implementation-guide)
-[View Example Analysis](/resources/example-analysis) 
+[Download Implementation Guide](https://Blackbird2Raven.github.io/triage-cubed/resources/implementation-guide)
+[View Example Analysis](https://Blackbird2Raven.github.io/triage-cubed/resources/example-analysis) 

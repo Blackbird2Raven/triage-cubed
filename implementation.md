@@ -34,7 +34,7 @@ This guide will help you implement the TRIAGE³ framework in your Security Opera
 
 1. Clone the TRIAGE³ repository:
    ```bash
-   git clone https://github.com/yourusername/triage-cubed.git
+   git clone https://github.com/Blackbird2Raven/triage-cubed.git
    cd triage-cubed
    ```
 
@@ -125,12 +125,16 @@ This guide will help you implement the TRIAGE³ framework in your Security Opera
    - Check coverage
    - Adjust parameters
 
-## Resources
+## Additional Resources
 
-- [Methodology](/methodology)
-- [Example Analysis](/resources/example-analysis)
-- [Templates](/resources/templates)
-- [Community Forum](https://github.com/yourusername/triage-cubed/discussions)
+- [Methodology](https://Blackbird2Raven.github.io/triage-cubed/methodology)
+- [Example Analysis](https://Blackbird2Raven.github.io/triage-cubed/resources/example-analysis)
+- [Templates](https://Blackbird2Raven.github.io/triage-cubed/resources/templates)
+- [Community Forum](https://github.com/Blackbird2Raven/triage-cubed/discussions)
+
+## Getting Help
+
+1. Check the [documentation](https://Blackbird2Raven.github.io/triage-cubed/docs)
 
 ## Support
 

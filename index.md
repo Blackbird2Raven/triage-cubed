@@ -35,13 +35,13 @@ TRIAGE³ is a revolutionary 3-dimensional, data-driven methodology designed to o
 
 ### Get Started
 
-- [Methodology](/methodology)
-- [Implementation Guide](/implementation)
-- [Resources](/resources)
-- [About the Author](/about)
+- [Methodology](https://Blackbird2Raven.github.io/triage-cubed/methodology)
+- [Implementation Guide](https://Blackbird2Raven.github.io/triage-cubed/implementation)
+- [Resources](https://Blackbird2Raven.github.io/triage-cubed/resources)
+- [About the Author](https://Blackbird2Raven.github.io/triage-cubed/about)
 
 ### Join the Community
 
-- [GitHub Repository](https://github.com/yourusername/triage-cubed)
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername) 
+- [GitHub Repository](https://github.com/Blackbird2Raven/triage-cubed)
+- [LinkedIn](https://www.linkedin.com/in/siddhant-mishra-b190b630/)
+- [Twitter/X](https://x.com/SiddhantMishra_) 

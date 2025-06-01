@@ -31,7 +31,7 @@ TRIAGE³ helps detection engineers and SOC analysts:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/triage-cubed.git
+   git clone https://github.com/Blackbird2Raven/triage-cubed.git
    cd triage-cubed
    ```
 
@@ -53,10 +53,10 @@ TRIAGE³ helps detection engineers and SOC analysts:
 
 ## Documentation
 
-- [Methodology](/methodology)
-- [Implementation Guide](/implementation)
-- [Resources](/resources)
-- [About the Author](/about)
+- [Methodology](https://Blackbird2Raven.github.io/triage-cubed/methodology)
+- [Implementation Guide](https://Blackbird2Raven.github.io/triage-cubed/implementation)
+- [Resources](https://Blackbird2Raven.github.io/triage-cubed/resources)
+- [About the Author](https://Blackbird2Raven.github.io/triage-cubed/about)
 
 ## Features
 
@@ -77,9 +77,9 @@ TRIAGE³ helps detection engineers and SOC analysts:
 
 ## Community
 
-- [GitHub Discussions](https://github.com/yourusername/triage-cubed/discussions)
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
+- [GitHub Discussions](https://github.com/Blackbird2Raven/triage-cubed/discussions)
+- [LinkedIn](https://www.linkedin.com/in/siddhant-mishra-b190b630/)
+- [Twitter/X](https://x.com/SiddhantMishra_)
 
 ## License
 
@@ -90,9 +90,9 @@ For commercial use inquiries, please contact: [your.email@example.com]
 ## Support
 
 For support, please:
-1. Check the [documentation](/docs)
+1. Check the [documentation](https://Blackbird2Raven.github.io/triage-cubed/docs)
 2. Open an issue in the repository
-3. Join the [community discussions](https://github.com/yourusername/triage-cubed/discussions)
+3. Join the [community discussions](https://github.com/Blackbird2Raven/triage-cubed/discussions)
 
 ## Acknowledgments
 
